@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun init(){
-        url = "https://limfiq.my.id/"
+        url = "https://buku.kening.org/satwika-mobile/auth"
         loading = findViewById<ProgressBar>(R.id.pb_loading)
         webView = findViewById<WebView>(R.id.wv_page)
     }
